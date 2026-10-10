@@ -1,0 +1,31 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <servlet>
+<!--    xml file has high priority then annotation based configuration-->
+<!--    //xml based configuration-->
+    <servlet-name>Ajay</servlet-name>
+    <servlet-class>in.coderarmy.Myservlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Ajay</servlet-name>
+    <url-pattern>/Ajay/*</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>monday</servlet-name>
+    <servlet-class>in.coderarmy.Monday</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>monday</servlet-name>
+    <url-pattern>/monday/</url-pattern>
+  </servlet-mapping>
+
+  <error-page>
+    <error-code>404</error-code>
+    <location>/404.html</location>
+  </error-page>
+</web-app>
