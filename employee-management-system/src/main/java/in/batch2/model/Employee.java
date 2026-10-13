@@ -2,6 +2,8 @@ package in.batch2.model;
 
 import jakarta.persistence.*;
 
+import java.math.BigDecimal;
+
 @Entity
 @Table(name="employee_info")
 public class Employee {//this is model cl
@@ -15,8 +17,10 @@ public class Employee {//this is model cl
     @Column(name="branch",nullable = false,length = 100)
     private String branch;
 
-    @Column(name="salary",nullable = false,precision = 10,scale=2)
+
+    @Column(name = "salary", nullable = false, precision = 10)
     private double salary;
+
 
     public Employee(){
 
