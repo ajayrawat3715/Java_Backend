@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f8a9d78-7f52-47a9-ba95-11df90c762c4" name="Changes" comment="update employee-management-system">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/batch2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/batch2/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/batch2/utility/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
