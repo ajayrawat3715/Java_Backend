@@ -24,7 +24,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
 /.mvn/
 /.smarttomcat/
-/.idea/
+
