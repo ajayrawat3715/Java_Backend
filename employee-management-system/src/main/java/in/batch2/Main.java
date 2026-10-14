@@ -12,12 +12,20 @@ public class Main {
     public static void main(String[] args){
         EmployeeDAO employeeDAO = new EmployeeDAO();
 
+        Employee employee = employeeDAO.findById(18);
+        employee.setName("Virat Kohli");
+        employee.setBranch("Cricket");
+        employee.setSalary(1327373838);
+        employeeDAO.update(employee);
+
+        employeeDAO.delete(18);
+
         List<Employee> employees = employeeDAO.findAll();
 
-        for(Employee employee : employees){
-            System.out.println(employee);
+        for(Employee employee1 : employees){
+            System.out.println(employee1);
         }
 
-        System.out.println("/n");
+        //System.out.println("/n");
     }
 }

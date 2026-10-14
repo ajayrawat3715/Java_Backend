@@ -66,18 +66,19 @@ public class EmployeeDAO {
         }
     }
 
-//    public void update(Employee employee){
-//        try(Session session = HibernateUtil.getSessionFactory().openSession()){
-//            Transaction transaction = session.beginTransaction();
-//
-//            try{
-//                Employee managedObj = session.find(Employee.class, employee.getId());
-//                if(managedObj==null) return;
-//                //managedObj.setName()
-//                transaction.commit();
-//            } catch (Exception e){
-//                transaction.rollback();
-//                throw e;
-//            }
-//    }
+    public void update(Employee employee){
+        try(Session session = HibernateUtil.getSessionFactory().openSession()) {
+            Transaction tx = session.beginTransaction();
+            try {
+                if(employee==null) return;
+                session.merge(employee);
+                tx.commit();
+            } catch (Exception e) {
+                tx.rollback();
+                throw e;
+            }
+        }catch(RuntimeException e){
+            throw e;
+        }
+    }
 }
