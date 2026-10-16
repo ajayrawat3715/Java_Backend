@@ -4,6 +4,7 @@ import in.batch2.utility.HibernateUtil;
 import jakarta.servlet.ServletContextEvent;
 import jakarta.servlet.ServletContextListener;
 import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebListener;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -17,6 +18,7 @@ import org.thymeleaf.web.servlet.JakartaServletWebApplication;
 import java.io.IOException;
 import java.util.Map;
 
+@WebListener
 public class ThymeleafConfig implements ServletContextListener {
 
     private static JakartaServletWebApplication application;
@@ -37,7 +39,6 @@ public class ThymeleafConfig implements ServletContextListener {
         templateEngine.setTemplateResolver(resolver);
 
         HibernateUtil.getSessionFactory();
-
     }
 
     @Override

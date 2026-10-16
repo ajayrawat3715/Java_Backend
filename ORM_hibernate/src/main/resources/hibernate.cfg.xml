@@ -9,4 +9,4 @@
         <property name="hibernate.show_sql">true</property>
         <mapping class="in.batch2.classRoom"/>
     </session-factory>
-</hibernate-configuration>
+ </hibernate-configuration>

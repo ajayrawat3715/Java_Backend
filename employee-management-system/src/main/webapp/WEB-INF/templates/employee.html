@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <table border="1px">
+        <thead>
+             <tr>
+                 <th>ID</th>
+                 <th>Name</th>
+                 <th>Branch</th>
+                 <th>Salary</th>
+             </tr>
+        </thead>
+        <tbody>
+             <tr th:each="employee : ${employees}">
+                 <td th:text="${employee.id}"></td>
+                 <td th:text="${employee.name}"></td>
+                 <td th:text="${employee.branch}"></td>
+                 <td th:text="${employee.salary}"></td>
+
+                 <td>
+                     <form th:action="@{/employees/delete}" method="post">
+                         <input type="hidden" name="id" th:value="${employee.id}">
+                         <button type="submit">Delete</button>
+                     </form>
+                 </td>
+             </tr>
+
+             <tr th:if="#{lists.isEmpty(employees)}">
+                 <td colspan="4">
+                     <h1>No Employees Record found</h1>
+                 </td>
+             </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -18,7 +18,7 @@ public class Main {
         employee.setSalary(1327373838);
         employeeDAO.update(employee);
 
-        employeeDAO.delete(18);
+        //employeeDAO.delete(18);
 
         List<Employee> employees = employeeDAO.findAll();
 
