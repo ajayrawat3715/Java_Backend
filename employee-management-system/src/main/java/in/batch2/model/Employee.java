@@ -26,8 +26,7 @@ public class Employee {//this is model cl
 
     }
 
-    public Employee(long id, String name, String branch, double salary) {
-        this.id = id;
+    public Employee( String name, String branch, double salary) {
         this.name = name;
         this.branch = branch;
         this.salary = salary;
