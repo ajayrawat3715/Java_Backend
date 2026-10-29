@@ -11,7 +11,6 @@ public class HibernateUtil {
             .configure("hibernate.cfg.xml")
             .addAnnotatedClass(Employee.class)
             .addAnnotatedClass(Project.class)
-            .addAnnotatedClass(ProjectAllocation.class)
             .buildSessionFactory();
 
     public static SessionFactory getSessionFactory() {

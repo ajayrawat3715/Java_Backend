@@ -12,7 +12,7 @@ import java.io.IOException;
 @WebServlet("/employees/delete")
 public class EmployeeDelete extends HttpServlet {
 
-    private EmployeeDAO employeeDAO = new EmployeeDAO();
+    private EmployeeDAO EmployeeDAO = new EmployeeDAO();
 
     @Override
     protected void doPost(HttpServletRequest req,

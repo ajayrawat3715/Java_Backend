@@ -5,76 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2918867a-5d41-4bb5-ad7a-910acc7a9b47" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/config/ThymeleafConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/ProjectDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/model/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeSave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectSave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Allocation-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Employee-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Employee-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Project-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Project-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/allocation-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/CourseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/DepartmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/EnrollmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/EnrollmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/CourseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/DepartmentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/EnrollmentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Utility/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Enrollment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/ProjectDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/ProjectDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectDelete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectListServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectSave.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/utility/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Allocation-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/allocation-list.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
