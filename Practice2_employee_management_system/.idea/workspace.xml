@@ -4,53 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2918867a-5d41-4bb5-ad7a-910acc7a9b47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/CourseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/DepartmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/EnrollmentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/StudentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/EnrollmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/CourseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/DepartmentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/EnrollmentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/StudentServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Enrollment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/course-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/course-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/department-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/department-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/enrollment-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/enrollment-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_employee_management_system/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="2918867a-5d41-4bb5-ad7a-910acc7a9b47" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/config/ThymeleafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/dao/ProjectDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/model/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeFormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/EmployeeUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/servlet/ProjectUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Allocation-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Employee-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Employee-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Project-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/Project-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/templates/allocation-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ajay_Rawat_Set_B/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/DepartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/EnrollmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/EnrollmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/DepartmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/EnrollmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Utility/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/student-form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../employee-management-system/src/main/java/in/batch2/utility/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +103,69 @@
     &quot;accountId&quot;: &quot;e5f93b00-bce3-4f29-a75b-59b01c81749c&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1043859899285462" />
+      <entry key="MS500" value="1.6363980985752806" />
+      <entry key="S2" value="1.9213509771587307" />
+      <entry key="S5" value="2.2032516663411883" />
+      <entry key="S10" value="2.6566421251933696" />
+      <entry key="S30" value="5.34678573526278" />
+      <entry key="S60" value="9.814598824849563" />
+      <entry key="M2" value="16.34219022353718" />
+      <entry key="M5" value="25.290837552931812" />
+      <entry key="M10" value="30.706722901028744" />
+      <entry key="M15" value="33.05833191474501" />
+      <entry key="M30" value="35.791755083426935" />
+      <entry key="H1" value="37.32976598329334" />
+      <entry key="H2" value="38.14741520184119" />
+      <entry key="H4" value="38.56921663428027" />
+      <entry key="D1" value="38.92756818148169" />
+      <entry key="W1" value="38.98963691272542" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.1106785969837573E-259" />
+      <entry key="MS500" value="2.105065191024275E-52" />
+      <entry key="S2" value="1.4817884152144572E-13" />
+      <entry key="S5" value="1.3804001622302465E-5" />
+      <entry key="S10" value="0.007692919751724967" />
+      <entry key="S30" value="0.5970917309945831" />
+      <entry key="S60" value="1.9195187475587674" />
+      <entry key="M2" value="3.5840419715598064" />
+      <entry key="M5" value="5.321096972173071" />
+      <entry key="M10" value="6.095948682263732" />
+      <entry key="M15" value="6.381815483653801" />
+      <entry key="M30" value="6.6828606316790715" />
+      <entry key="H1" value="6.839358945277587" />
+      <entry key="H2" value="6.919153967183136" />
+      <entry key="H4" value="6.959444635668182" />
+      <entry key="D1" value="6.993222307846846" />
+      <entry key="W1" value="6.999031304977409" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7589073086518882" />
+      <entry key="MS500" value="1.5236696633908908" />
+      <entry key="S2" value="1.8696054675223697" />
+      <entry key="S5" value="2.102430101954177" />
+      <entry key="S10" value="2.535897481463555" />
+      <entry key="S30" value="5.7671954232596505" />
+      <entry key="S60" value="11.55781753036398" />
+      <entry key="M2" value="19.784926634811214" />
+      <entry key="M5" value="30.529267396717753" />
+      <entry key="M10" value="36.7537349960372" />
+      <entry key="M15" value="39.40534005294519" />
+      <entry key="M30" value="42.455946706464665" />
+      <entry key="H1" value="44.159434918400216" />
+      <entry key="H2" value="45.06162970893459" />
+      <entry key="H4" value="45.52616718093028" />
+      <entry key="D1" value="45.92037135901452" />
+      <entry key="W1" value="45.988608256610895" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -95,6 +182,7 @@
   &quot;keyToString&quot;: {
     &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
@@ -107,7 +195,8 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;
   }
 }</component>
   <component name="SharedIndexes">
@@ -130,5 +219,13 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Project Form</title>
+</head>
+<body>
+<h2>Project Registration</h2>
+
+<form th:action="${project}" method="post">
+    <label>ProjectName:</label>
+    <input type="text" name="projectname" required/>
+    <br><br>
+
+    <label>ClientName:</label>
+    <input type="text" name="clientname" required/>
+    <br><br>
+
+    <label>StartDate:</label>
+    <input type="date" name="startdate" required/>
+    <br><br>
+
+    <label>Budget:</label>
+    <input type="number" name="budget" required/>
+    <br><br>
+
+    <label>Status:</label>
+    <input type="text" name="status" required/>
+    <br><br>
+
+    <button type="submit">Save Project</button>
+</form>
+
+<a th:href="@{/students}">View Projects</a>
+</body>
+</html>

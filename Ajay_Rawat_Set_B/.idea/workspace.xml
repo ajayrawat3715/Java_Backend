@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="242e8a5f-edc2-4e12-83c9-04c8eae0eb2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/config/ThymeleafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/dao/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/dao/ProjectDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/EmployeeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/EmployeeFormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/EmployeeListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/EmployeeSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/EmployeeUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/ProjectDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/ProjectForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/ProjectListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/ProjectSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/servlet/ProjectUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/utility/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/Allocation-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/Employee-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/Employee-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/Project-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/Project-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/allocation-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee_Project_Allocation_Management_System/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/DepartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/EnrollmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/EnrollmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/DepartmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/EnrollmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/Utility/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/java/in/batch2/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_final/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice2_employee_management_system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice2_employee_management_system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/java/in/batch2/Config/ThymeleafConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/webapp/WEB-INF/templates/student-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/webapp/WEB-INF/templates/student-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ajayrawat3715&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ajayrawat3715/Java_Backend.git&quot;,
+    &quot;accountId&quot;: &quot;e5f93b00-bce3-4f29-a75b-59b01c81749c&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000366909851" />
+      <entry key="MS500" value="1.0344734391515347" />
+      <entry key="S2" value="1.7563997156137812" />
+      <entry key="S5" value="3.3737272549975583" />
+      <entry key="S10" value="6.123191986810293" />
+      <entry key="S30" value="15.013354587117135" />
+      <entry key="S60" value="24.489934258107304" />
+      <entry key="M2" value="39.77035252412201" />
+      <entry key="M5" value="72.4826620578906" />
+      <entry key="M10" value="103.71785456622897" />
+      <entry key="M15" value="125.12966342991868" />
+      <entry key="M30" value="165.38612338703982" />
+      <entry key="H1" value="201.0597258343696" />
+      <entry key="H2" value="225.77485664350462" />
+      <entry key="H4" value="240.4596277610984" />
+      <entry key="D1" value="254.10335378192204" />
+      <entry key="W1" value="256.5826123166295" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.1498416046729449E-286" />
+      <entry key="MS500" value="6.488250423119182E-58" />
+      <entry key="S2" value="5.046983686248904E-15" />
+      <entry key="S5" value="1.9107891227296445E-6" />
+      <entry key="S10" value="0.001382314380778328" />
+      <entry key="S30" value="0.11251967110803866" />
+      <entry key="S60" value="0.3672843608328518" />
+      <entry key="M2" value="0.7608220741505041" />
+      <entry key="M5" value="1.3507169874627958" />
+      <entry key="M10" value="2.554796904307718" />
+      <entry key="M15" value="4.5266698434052275" />
+      <entry key="M30" value="10.302459583129608" />
+      <entry key="H1" value="16.70692224476754" />
+      <entry key="H2" value="21.55342045206416" />
+      <entry key="H4" value="24.54653998137853" />
+      <entry key="D1" value="27.38951500396437" />
+      <entry key="W1" value="27.911891746120222" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.009685216624523102" />
+      <entry key="MS500" value="0.4079099870079528" />
+      <entry key="S2" value="1.3992616919858116" />
+      <entry key="S5" value="3.138898935966474" />
+      <entry key="S10" value="5.958767253783894" />
+      <entry key="S30" value="15.00760658054616" />
+      <entry key="S60" value="24.75200851908537" />
+      <entry key="M2" value="40.441687901292" />
+      <entry key="M5" value="73.77143390587979" />
+      <entry key="M10" value="106.22548887508071" />
+      <entry key="M15" value="129.61216340741268" />
+      <entry key="M30" value="175.64950580286813" />
+      <entry key="H1" value="217.73798668272048" />
+      <entry key="H2" value="247.310529734259" />
+      <entry key="H4" value="264.9962433368775" />
+      <entry key="D1" value="281.4910487548299" />
+      <entry key="W1" value="284.49423970675264" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LM0mRJDBhix6AV6q7ycmpYRL4n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="242e8a5f-edc2-4e12-83c9-04c8eae0eb2b" name="Changes" comment="" />
+      <created>1793248791119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793248791119</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

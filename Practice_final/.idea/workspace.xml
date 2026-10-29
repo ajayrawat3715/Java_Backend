@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e6067d1-ce08-4028-a4d8-2f1f764cdef2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Config/ThymeleafConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/DepartmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/EnrollmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/EnrollmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/DepartmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/EnrollmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Servlet/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/Utility/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/batch2/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice2_employee_management_system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice2_employee_management_system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/webapp/WEB-INF/templates/student-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice2_employee_management_system/src/main/webapp/WEB-INF/templates/student-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-management-system/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ajayrawat3715"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ajayrawat3715/Java_Backend.git",
+    "accountId": "e5f93b00-bce3-4f29-a75b-59b01c81749c"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001688212679" />
+      <entry key="S2" value="1.020270156610053" />
+      <entry key="S5" value="1.211587735079531" />
+      <entry key="S10" value="1.5310047290489521" />
+      <entry key="S30" value="3.4990203329579668" />
+      <entry key="S60" value="7.090024882951624" />
+      <entry key="M2" value="12.81739825840358" />
+      <entry key="M5" value="27.31324487346507" />
+      <entry key="M10" value="45.63716634425224" />
+      <entry key="M15" value="56.61551575244279" />
+      <entry key="M30" value="71.80921238004346" />
+      <entry key="H1" value="81.51675608938378" />
+      <entry key="H2" value="87.01628789909776" />
+      <entry key="H4" value="89.94490196422151" />
+      <entry key="D1" value="92.48179241747776" />
+      <entry key="W1" value="92.92574612235425" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="3.780460282793761E-20" />
+      <entry key="MS500" value="1.3046948134914007E-4" />
+      <entry key="S2" value="0.10698407478727372" />
+      <entry key="S5" value="0.43482111926531686" />
+      <entry key="S10" value="0.8026963948579782" />
+      <entry key="S30" value="1.736440105905279" />
+      <entry key="S60" value="3.33975514172406" />
+      <entry key="M2" value="6.319865667200512" />
+      <entry key="M5" value="12.425458340971755" />
+      <entry key="M10" value="18.412566611631657" />
+      <entry key="M15" value="21.708628520848553" />
+      <entry key="M30" value="26.093792413051656" />
+      <entry key="H1" value="28.823482966388422" />
+      <entry key="H2" value="30.351063686923972" />
+      <entry key="H4" value="31.15971208376747" />
+      <entry key="D1" value="31.857697276394283" />
+      <entry key="W1" value="31.979615054603894" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0080509572614486E-6" />
+      <entry key="MS500" value="0.06319718055632617" />
+      <entry key="S2" value="0.5221251668836355" />
+      <entry key="S5" value="1.0263509361436063" />
+      <entry key="S10" value="1.7342728414081678" />
+      <entry key="S30" value="4.844482897841042" />
+      <entry key="S60" value="10.134256762388711" />
+      <entry key="M2" value="18.908310447775435" />
+      <entry key="M5" value="39.59440211025868" />
+      <entry key="M10" value="63.95850434855798" />
+      <entry key="M15" value="78.2572004185495" />
+      <entry key="M30" value="97.8657329052647" />
+      <entry key="H1" value="110.3204768939204" />
+      <entry key="H2" value="117.35716278631885" />
+      <entry key="H4" value="121.09943914734099" />
+      <entry key="D1" value="124.33861571152646" />
+      <entry key="W1" value="124.90523603647566" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LKwVdjEHWoY3LXOO3BbCZUnS94" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6067d1-ce08-4028-a4d8-2f1f764cdef2" name="Changes" comment="" />
+      <created>1793216095205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793216095205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

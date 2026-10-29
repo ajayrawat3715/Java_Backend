@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee Form</title>
+</head>
+<body>
+<h2>Employee Registration</h2>
+
+<form th:action="${Employee}" method="post">
+    <label>EmployeeName:</label>
+    <input type="text" name="employeename" required/>
+    <br><br>
+
+    <label>Email:</label>
+    <input type="email" name="email" required/>
+    <br><br>
+
+    <label>Designation:</label>
+    <input type="text" name="designation" required/>
+    <br><br>
+
+    <label>Salary:</label>
+    <input type="number" name="salary" required/>
+    <br><br>
+
+    <label>Password:</label>
+    <input type="password" name="password" required/>
+    <br><br>
+
+    <button type="submit">Save Student</button>
+</form>
+
+<a th:href="@{/}">View Employees</a>
+</body>
+</html>
